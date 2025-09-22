@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/app1.dir/calc.c.o -o ../../bin/app1   -L/home/zjm/LinuxLearn/CMakeLearn/qiantao/lib  -Wl,-rpath,/home/zjm/LinuxLearn/CMakeLearn/qiantao/lib ../../lib/libcalc.a 

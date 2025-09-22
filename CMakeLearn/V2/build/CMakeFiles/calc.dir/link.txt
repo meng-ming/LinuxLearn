@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libcalc.so -o ../lib/libcalc.so CMakeFiles/calc.dir/src/add.c.o CMakeFiles/calc.dir/src/div.c.o CMakeFiles/calc.dir/src/mult.c.o CMakeFiles/calc.dir/src/sub.c.o 

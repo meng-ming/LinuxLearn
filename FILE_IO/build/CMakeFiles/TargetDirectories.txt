@@ -1,0 +1,3 @@
+/home/zjm/LinuxLearn/FILE_IO/build/CMakeFiles/test1.dir
+/home/zjm/LinuxLearn/FILE_IO/build/CMakeFiles/edit_cache.dir
+/home/zjm/LinuxLearn/FILE_IO/build/CMakeFiles/rebuild_cache.dir

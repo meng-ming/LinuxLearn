@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/app.dir/main.c.o -o ../bin/app   -L/home/zjm/Linux_Learn/CmakeLearn/V3/lib  -Wl,-rpath,/home/zjm/Linux_Learn/CmakeLearn/V3/lib -lcalc 

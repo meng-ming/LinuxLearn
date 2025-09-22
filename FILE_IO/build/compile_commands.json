@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zjm/LinuxLearn/FILE_IO/build",
+  "command": "/usr/bin/cc  -I/home/zjm/LinuxLearn/FILE_IO/include  -o CMakeFiles/test1.dir/src/main.c.o -c /home/zjm/LinuxLearn/FILE_IO/src/main.c",
+  "file": "/home/zjm/LinuxLearn/FILE_IO/src/main.c"
+},
+{
+  "directory": "/home/zjm/LinuxLearn/FILE_IO/build",
+  "command": "/usr/bin/cc  -I/home/zjm/LinuxLearn/FILE_IO/include  -o CMakeFiles/test1.dir/src/test.c.o -c /home/zjm/LinuxLearn/FILE_IO/src/test.c",
+  "file": "/home/zjm/LinuxLearn/FILE_IO/src/test.c"
+}
+]

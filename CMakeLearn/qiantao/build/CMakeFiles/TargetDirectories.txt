@@ -1,0 +1,14 @@
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/CMakeFiles/edit_cache.dir
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/CMakeFiles/rebuild_cache.dir
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/calc/CMakeFiles/calc.dir
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/calc/CMakeFiles/edit_cache.dir
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/calc/CMakeFiles/rebuild_cache.dir
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/sort/CMakeFiles/sort.dir
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/sort/CMakeFiles/edit_cache.dir
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/sort/CMakeFiles/rebuild_cache.dir
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/test1/CMakeFiles/app1.dir
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/test1/CMakeFiles/edit_cache.dir
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/test1/CMakeFiles/rebuild_cache.dir
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/test2/CMakeFiles/app2.dir
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/test2/CMakeFiles/edit_cache.dir
+/home/zjm/LinuxLearn/CMakeLearn/qiantao/build/test2/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test.dir/fopen_test.c.o -o ../bin/test 

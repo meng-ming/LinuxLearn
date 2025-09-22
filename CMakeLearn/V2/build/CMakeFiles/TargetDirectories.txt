@@ -1,0 +1,3 @@
+/home/zjm/Linux_Learn/CmakeLearn/V2/build/CMakeFiles/calc.dir
+/home/zjm/Linux_Learn/CmakeLearn/V2/build/CMakeFiles/edit_cache.dir
+/home/zjm/Linux_Learn/CmakeLearn/V2/build/CMakeFiles/rebuild_cache.dir

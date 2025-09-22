@@ -1,0 +1,36 @@
+# 基础风格：以 LLVM 为基准，再逐项覆盖
+BasedOnStyle: LLVM
+
+# 缩进与列宽
+IndentWidth: 4 # 缩进 4 空格
+TabWidth: 4 # 制表符等效为 4 列
+UseTab: Never # 一律用空格，不用 Tab
+ColumnLimit: 100 # 每行最多 100 列
+
+# 大括号换行策略
+BreakBeforeBraces: Custom # 使用自定义大括号换行规则（重要！否则下面的 BraceWrapping 不生效）
+BraceWrapping:
+  AfterFunction: true # 函数定义的 '{' 另起一行（满足你的要求）
+  AfterControlStatement: false # if/for/while 的 '{' 换行，不保持同一行（Linux/Stroustrup 风格）
+  BeforeElse: false # 'else' 与前一个 '}' 不同行（ "} else {" ）
+  BeforeCatch: false # 'catch' 与前一个 '}' 不同行（ "} catch (...) {" ）
+  SplitEmptyFunction: false # 空函数不特殊拆行（保持紧凑）
+  SplitEmptyRecord: false # 空的 struct/class 不特殊拆行
+  SplitEmptyNamespace: false # 空的 namespace 不特殊拆行
+
+# 指针与小括号空格
+PointerAlignment: Left # 指针星号靠左：'int* p'（而非 'int *p'）
+SpaceBeforeParens: ControlStatements # 仅在控制语句前加空格：if (x)，函数调用/声明不额外加空格
+
+# 单行 if 行为
+AllowShortIfStatementsOnASingleLine: true # 允许短 if 单行（不强制拆成多行）
+
+# switch/case 缩进
+IndentCaseLabels: false # case 与 switch 左对齐（常见的 Linux 风格）
+
+# 续行缩进
+# ContinuationIndentWidth: 8 # 续行（换行后）相对当前缩进再缩进 8 列
+
+# 头文件排序与分组
+SortIncludes: true # 允许排序 #include
+IncludeBlocks: Regroup # 先按（系统/第三方/本地等）分组，再在组内排序

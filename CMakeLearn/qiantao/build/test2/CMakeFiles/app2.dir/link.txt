@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/app2.dir/sort.c.o -o ../../bin/app2   -L/home/zjm/LinuxLearn/CMakeLearn/qiantao/lib  -Wl,-rpath,/home/zjm/LinuxLearn/CMakeLearn/qiantao/lib ../../lib/libsort.a 
