@@ -11,9 +11,9 @@ ColumnLimit: 100 # 每行最多 100 列
 BreakBeforeBraces: Custom # 使用自定义大括号换行规则（重要！否则下面的 BraceWrapping 不生效）
 BraceWrapping:
   AfterFunction: true # 函数定义的 '{' 另起一行（满足你的要求）
-  AfterControlStatement: false # if/for/while 的 '{' 换行，不保持同一行（Linux/Stroustrup 风格）
-  BeforeElse: false # 'else' 与前一个 '}' 不同行（ "} else {" ）
-  BeforeCatch: false # 'catch' 与前一个 '}' 不同行（ "} catch (...) {" ）
+  AfterControlStatement: true # if/for/while 的 '{' 换行，保持同一行（Linux/Stroustrup 风格）
+  BeforeElse: false # 'else' 与前一个 '}' 同行（ "} else {" ）
+  BeforeCatch: false # 'catch' 与前一个 '}' 同行（ "} catch (...) {" ）
   SplitEmptyFunction: false # 空函数不特殊拆行（保持紧凑）
   SplitEmptyRecord: false # 空的 struct/class 不特殊拆行
   SplitEmptyNamespace: false # 空的 namespace 不特殊拆行
