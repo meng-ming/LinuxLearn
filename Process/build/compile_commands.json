@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zjm/LinuxLearn/Process/build",
+  "command": "/usr/bin/cc  -I/home/zjm/LinuxLearn/Process/include  -o CMakeFiles/signal_test.dir/src/main.c.o -c /home/zjm/LinuxLearn/Process/src/main.c",
+  "file": "/home/zjm/LinuxLearn/Process/src/main.c"
+},
+{
+  "directory": "/home/zjm/LinuxLearn/Process/build",
+  "command": "/usr/bin/cc  -I/home/zjm/LinuxLearn/Process/include  -o CMakeFiles/signal_test.dir/src/process.c.o -c /home/zjm/LinuxLearn/Process/src/process.c",
+  "file": "/home/zjm/LinuxLearn/Process/src/process.c"
+}
+]

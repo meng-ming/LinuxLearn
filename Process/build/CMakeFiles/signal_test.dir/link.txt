@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/signal_test.dir/src/main.c.o CMakeFiles/signal_test.dir/src/process.c.o -o ../bin/signal_test 

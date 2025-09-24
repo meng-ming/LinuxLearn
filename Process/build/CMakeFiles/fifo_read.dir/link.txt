@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/fifo_read.dir/src/main.c.o CMakeFiles/fifo_read.dir/src/process.c.o -o ../bin/fifo_read 

@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.10)
+project(Process)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+aux_source_directory(${PROJECT_SOURCE_DIR}/src SRC)
+include_directories(${PROJECT_SOURCE_DIR}/include)
+add_executable(signal_test ${SRC})
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)

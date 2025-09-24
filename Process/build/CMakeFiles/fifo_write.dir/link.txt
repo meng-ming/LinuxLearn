@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/fifo_write.dir/src/main.c.o CMakeFiles/fifo_write.dir/src/process.c.o -o ../bin/fifo_write 

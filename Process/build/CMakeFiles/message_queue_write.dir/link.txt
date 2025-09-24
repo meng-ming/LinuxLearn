@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/message_queue_write.dir/src/main.c.o CMakeFiles/message_queue_write.dir/src/process.c.o -o ../bin/message_queue_write 

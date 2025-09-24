@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/process.dir/src/main.c.o CMakeFiles/process.dir/src/process.c.o -o ../bin/process 
