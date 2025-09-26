@@ -1,5 +1,5 @@
-#ifndef _HEAD_H_
-#define _HEAD_H_
+#ifndef HEAD_H_
+#define HEAD_H_
 
 #include <errno.h>
 #include <mqueue.h>
@@ -33,6 +33,6 @@ void message_queue_test(); // 父子进程间使用消息队列进行通讯（�
 // 两个程序之间通过消息队列进行通讯
 void message_queue_write();   // 对消息队列进行写入信息
 void message_queue_receive(); // 读取消息队列中的信息
-void signal_callback(int signal_num);       // 信号回调函数
-void signal_test();           // 测试信号的作用
-#endif                        // _HEAD_H_
+void signal_callback(int signal_num); // 信号回调函数
+void signal_test();                   // 测试信号的作用
+#endif                                // HEAD_H_

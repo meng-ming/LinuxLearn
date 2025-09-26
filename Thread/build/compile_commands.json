@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zjm/LinuxLearn/Thread/build",
+  "command": "/usr/bin/cc  -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/home/zjm/LinuxLearn/Thread/include  -o CMakeFiles/thread_pool_test.dir/src/main.c.o -c /home/zjm/LinuxLearn/Thread/src/main.c",
+  "file": "/home/zjm/LinuxLearn/Thread/src/main.c"
+},
+{
+  "directory": "/home/zjm/LinuxLearn/Thread/build",
+  "command": "/usr/bin/cc  -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/home/zjm/LinuxLearn/Thread/include  -o CMakeFiles/thread_pool_test.dir/src/thread.c.o -c /home/zjm/LinuxLearn/Thread/src/thread.c",
+  "file": "/home/zjm/LinuxLearn/Thread/src/thread.c"
+}
+]

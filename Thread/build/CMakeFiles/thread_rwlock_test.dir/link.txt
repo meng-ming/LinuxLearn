@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/thread_rwlock_test.dir/src/main.c.o CMakeFiles/thread_rwlock_test.dir/src/thread.c.o -o ../bin/thread_rwlock_test 

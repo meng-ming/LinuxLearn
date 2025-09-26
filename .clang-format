@@ -5,7 +5,7 @@ BasedOnStyle: LLVM
 IndentWidth: 4 # 缩进 4 空格
 TabWidth: 4 # 制表符等效为 4 列
 UseTab: Never # 一律用空格，不用 Tab
-ColumnLimit: 70 # 每行最多 110 列
+ColumnLimit: 80 # 每行最多 110 列
 
 # 大括号换行策略
 BreakBeforeBraces: Custom # 使用自定义大括号换行规则（重要！否则下面的 BraceWrapping 不生效）

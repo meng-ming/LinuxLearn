@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/thread_namedsem_shm_test.dir/src/main.c.o CMakeFiles/thread_namedsem_shm_test.dir/src/thread.c.o -o ../bin/thread_namedsem_shm_test  -lpthread -lglib-2.0 
