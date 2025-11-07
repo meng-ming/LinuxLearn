@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zjm/Git_Repository/LinuxLearn/Socket/build",
+  "command": "/usr/bin/gcc -I/home/zjm/Git_Repository/LinuxLearn/Socket/include -g -o CMakeFiles/multi_connection_epoll.dir/src/main.c.o -c /home/zjm/Git_Repository/LinuxLearn/Socket/src/main.c",
+  "file": "/home/zjm/Git_Repository/LinuxLearn/Socket/src/main.c"
+},
+{
+  "directory": "/home/zjm/Git_Repository/LinuxLearn/Socket/build",
+  "command": "/usr/bin/gcc -I/home/zjm/Git_Repository/LinuxLearn/Socket/include -g -o CMakeFiles/multi_connection_epoll.dir/src/socket.c.o -c /home/zjm/Git_Repository/LinuxLearn/Socket/src/socket.c",
+  "file": "/home/zjm/Git_Repository/LinuxLearn/Socket/src/socket.c"
+}
+]

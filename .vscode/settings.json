@@ -2,5 +2,7 @@
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 500,
     "editor.formatOnSave": true,
+    "C_Cpp.intelliSenseEngine": "disabled",   // 关闭微软引擎防冲突
+    "clangd.path": "clangd",                   // 保证能找到 clangd，可写绝对路径
+
   }
- 

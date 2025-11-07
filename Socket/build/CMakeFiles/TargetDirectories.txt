@@ -1,0 +1,3 @@
+/home/zjm/Git_Repository/LinuxLearn/Socket/build/CMakeFiles/multi_connection_epoll.dir
+/home/zjm/Git_Repository/LinuxLearn/Socket/build/CMakeFiles/edit_cache.dir
+/home/zjm/Git_Repository/LinuxLearn/Socket/build/CMakeFiles/rebuild_cache.dir
