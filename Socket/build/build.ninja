@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /home/zjm/Git_Repository/LinuxLearn/Socket/build/
+cmake_ninja_workdir = /home/zjm/projects/LinuxLearn/Socket/build/
 # =============================================================================
 # Object build statements for EXECUTABLE target multi_connection_epoll
 
@@ -49,17 +49,17 @@ cmake_ninja_workdir = /home/zjm/Git_Repository/LinuxLearn/Socket/build/
 
 build cmake_object_order_depends_target_multi_connection_epoll: phony || CMakeFiles/multi_connection_epoll.dir
 
-build CMakeFiles/multi_connection_epoll.dir/src/main.c.o: C_COMPILER__multi_connection_epoll_Debug /home/zjm/Git_Repository/LinuxLearn/Socket/src/main.c || cmake_object_order_depends_target_multi_connection_epoll
+build CMakeFiles/multi_connection_epoll.dir/src/main.c.o: C_COMPILER__multi_connection_epoll_Debug /home/zjm/projects/LinuxLearn/Socket/src/main.c || cmake_object_order_depends_target_multi_connection_epoll
   DEP_FILE = CMakeFiles/multi_connection_epoll.dir/src/main.c.o.d
   FLAGS = -g
-  INCLUDES = -I/home/zjm/Git_Repository/LinuxLearn/Socket/include
+  INCLUDES = -I/home/zjm/projects/LinuxLearn/Socket/include
   OBJECT_DIR = CMakeFiles/multi_connection_epoll.dir
   OBJECT_FILE_DIR = CMakeFiles/multi_connection_epoll.dir/src
 
-build CMakeFiles/multi_connection_epoll.dir/src/socket.c.o: C_COMPILER__multi_connection_epoll_Debug /home/zjm/Git_Repository/LinuxLearn/Socket/src/socket.c || cmake_object_order_depends_target_multi_connection_epoll
+build CMakeFiles/multi_connection_epoll.dir/src/socket.c.o: C_COMPILER__multi_connection_epoll_Debug /home/zjm/projects/LinuxLearn/Socket/src/socket.c || cmake_object_order_depends_target_multi_connection_epoll
   DEP_FILE = CMakeFiles/multi_connection_epoll.dir/src/socket.c.o.d
   FLAGS = -g
-  INCLUDES = -I/home/zjm/Git_Repository/LinuxLearn/Socket/include
+  INCLUDES = -I/home/zjm/projects/LinuxLearn/Socket/include
   OBJECT_DIR = CMakeFiles/multi_connection_epoll.dir
   OBJECT_FILE_DIR = CMakeFiles/multi_connection_epoll.dir/src
 
@@ -84,7 +84,7 @@ build ../bin/multi_connection_epoll: C_EXECUTABLE_LINKER__multi_connection_epoll
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/zjm/Git_Repository/LinuxLearn/Socket/build && /usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /home/zjm/projects/LinuxLearn/Socket/build && /usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -95,7 +95,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/zjm/Git_Repository/LinuxLearn/Socket/build && /usr/bin/cmake --regenerate-during-build -S/home/zjm/Git_Repository/LinuxLearn/Socket -B/home/zjm/Git_Repository/LinuxLearn/Socket/build
+  COMMAND = cd /home/zjm/projects/LinuxLearn/Socket/build && /usr/bin/cmake --regenerate-during-build -S/home/zjm/projects/LinuxLearn/Socket -B/home/zjm/projects/LinuxLearn/Socket/build
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -113,7 +113,7 @@ build multi_connection_epoll: phony ../bin/multi_connection_epoll
 # =============================================================================
 
 #############################################
-# Folder: /home/zjm/Git_Repository/LinuxLearn/Socket/build
+# Folder: /home/zjm/projects/LinuxLearn/Socket/build
 
 build all: phony ../bin/multi_connection_epoll
 

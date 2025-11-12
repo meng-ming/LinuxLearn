@@ -1,0 +1,3 @@
+/home/zjm/projects/LinuxLearn/SQLite/build/CMakeFiles/sqlite3_test.dir
+/home/zjm/projects/LinuxLearn/SQLite/build/CMakeFiles/edit_cache.dir
+/home/zjm/projects/LinuxLearn/SQLite/build/CMakeFiles/rebuild_cache.dir

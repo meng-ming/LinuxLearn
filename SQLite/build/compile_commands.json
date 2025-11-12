@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zjm/projects/LinuxLearn/SQLite/build",
+  "command": "/usr/bin/gcc -I/home/zjm/projects/LinuxLearn/SQLite/include -g -o CMakeFiles/sqlite3_test.dir/src/main.c.o -c /home/zjm/projects/LinuxLearn/SQLite/src/main.c",
+  "file": "/home/zjm/projects/LinuxLearn/SQLite/src/main.c"
+},
+{
+  "directory": "/home/zjm/projects/LinuxLearn/SQLite/build",
+  "command": "/usr/bin/gcc -I/home/zjm/projects/LinuxLearn/SQLite/include -g -o CMakeFiles/sqlite3_test.dir/src/sqlite.c.o -c /home/zjm/projects/LinuxLearn/SQLite/src/sqlite.c",
+  "file": "/home/zjm/projects/LinuxLearn/SQLite/src/sqlite.c"
+}
+]
